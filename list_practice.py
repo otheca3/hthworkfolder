@@ -66,6 +66,8 @@ def check_list(list1):
 
 check_list(cities)
 
+#not finished, kind of confused
+'''
 def word_length_sort(list1):
     temp_dict = {}
     for i in range(len(list1)):
@@ -75,3 +77,4 @@ def word_length_sort(list1):
 
 print()
 print(word_length_sort(cities))
+'''
